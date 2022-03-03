@@ -2,14 +2,14 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://miomio.in',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'MIOMIO',
+        'description' => 'miomio.in',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'miomio',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
