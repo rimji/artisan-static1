@@ -21,7 +21,8 @@
         <header>
             <nav> 
               <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/156557700-1a7133d3-ccb8-43b7-bf9d-c6e28e6bc1f8.png" alt="MIOMIO" width="55" height="55"></a>
-          </nav>
+         <br>miomio.in
+            </nav>
         </header>
 
         <article>
