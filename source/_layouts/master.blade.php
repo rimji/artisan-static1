@@ -38,7 +38,7 @@
              &nbsp&nbsp
              <a href="https://www.rimsim.com/contact/">Contact us</a>
              <br>
-             &copy; RimSim
+             &copy; 2023 RimSim
         </center></small>
         </footer>
     </section>
