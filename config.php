@@ -2,9 +2,9 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://miomio.in',
+    'baseUrl' => 'https://rimsim.com',
     'site' => [
-        'title' => 'MIOMIO',
+        'title' => 'RimSim',
         'description' => 'miomio.in',
         'image' => 'default-share.png',
     ],
