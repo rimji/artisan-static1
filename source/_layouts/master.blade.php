@@ -20,7 +20,7 @@
     <section>
         <header>
             <nav> 
-              <a href="https://www.miomio.in/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="45" height="45"></a>
+              <a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/155539273-650e05e9-765a-49ca-aa19-2788e14fc856.png" alt="MIOMIO" width="45" height="45"></a>
             </nav>
         </header>
 
@@ -32,13 +32,13 @@
 
         <footer>
          <small><center>
-             <a href="https://www.facebook.com/miomioindia">Facebook</a>
+             <a href="https://www.facebook.com/rimsimofficial">Facebook</a>
              &nbsp&nbsp
-             <a href="https://www.instagram.com/miomio.in">Instagram</a>
+             <a href="https://www.instagram.com/rimsimofficial">Instagram</a>
              &nbsp&nbsp
-             <a href="https://www.miomio.in/contact/">Contact us</a>
+             <a href="https://www.rimsim.com/contact/">Contact us</a>
              <br>
-             &copy; MIOMIO
+             &copy; RIMSIM
         </center></small>
         </footer>
     </section>
