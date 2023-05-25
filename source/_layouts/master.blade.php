@@ -24,9 +24,9 @@
             </nav>
         </header> 
         
-        <center>
+        
 @yield('content')
-        </center>
+       
         
         <footer>
          <small><center>
