@@ -4,7 +4,7 @@
 
 @section('content')
 
-   <small><center>
+   <small>
    contact@rimsim.com
-   </center> </small>
+   </small>
 @endsection
