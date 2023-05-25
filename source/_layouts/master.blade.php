@@ -24,8 +24,7 @@
             </nav>
         </header> 
         
-        
-@yield('content')
+     
        <article>
 
             <section>
