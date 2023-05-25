@@ -1,11 +1,11 @@
 @extends('_layouts.master')
 
 @section('content')
-  <small><center>
+  <small>
 How can we help you today?
 
 
 
 
-    </center></small>
+    </small>
 @endsection
