@@ -23,7 +23,10 @@
               <a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/240636456-ea196788-446d-4bcb-9db3-952e1cfc3c42.png" alt="RimSim" width="85" height="30"></a>
             </nav>
         </header> 
+        
+        <center>
 @yield('content')
+        </center>
         
         <footer>
          <small><center>
