@@ -36,7 +36,7 @@
         </article>
         
         <footer>
-         <small><center>
+         <small>
              <a href="https://www.facebook.com/rimsimofficial">Facebook</a>
              &nbsp&nbsp
              <a href="https://www.instagram.com/rimsimofficial">Instagram</a>
@@ -44,7 +44,7 @@
              <a href="https://www.rimsim.com/contact/">Contact us</a>
              <br>
              &copy; 2023 RimSim
-        </center></small>
+         </small>
         </footer>
     </section>
 
