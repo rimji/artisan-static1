@@ -25,7 +25,7 @@
         </header> 
         
      
-       <article>
+       
 
            
 
@@ -33,7 +33,7 @@
 
        
 
-        </article>
+       
         
         <footer>
          <small>
