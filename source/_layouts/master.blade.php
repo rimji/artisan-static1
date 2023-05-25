@@ -26,7 +26,15 @@
         
         
 @yield('content')
-       
+       <article>
+
+            <section>
+
+                @yield('content')
+
+            </section>
+
+        </article>
         
         <footer>
          <small><center>
