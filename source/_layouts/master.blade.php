@@ -20,7 +20,7 @@
     <section>
      <header>
             <nav>
-              <a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/240636456-ea196788-446d-4bcb-9db3-952e1cfc3c42.png" alt="RimSim" width="85" height="30"></a>
+              <a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/240966317-e4ab7b59-198f-4a89-b2ac-bf7e5be622ef.png" alt="RimSim" width="85" height="30"></a>
             </nav>
         </header> 
         
