@@ -3,7 +3,10 @@
 @section('content')
 
   <small>
-How can we help you today?
+
+             <a href="https://www.rimsim.com/contact/">Contact us</a>
+
+       
 
 </small>
 
