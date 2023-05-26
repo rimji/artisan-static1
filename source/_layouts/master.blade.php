@@ -38,10 +38,6 @@
         <footer>
          <small>
              
-
-             <a href="https://www.rimsim.com/contact/">Contact us</a>
-
-             <br>
              &copy; 2023 RimSim
          </small>
         </footer>
