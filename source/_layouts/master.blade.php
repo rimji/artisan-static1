@@ -38,7 +38,7 @@
         <footer>
          <small>
              
-             &copy; 2023 RimSim
+             &copy; 2023 RIMSIM.COM
          </small>
         </footer>
     </section>
