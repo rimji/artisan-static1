@@ -4,15 +4,15 @@ return [
     'production' => false,
     'baseUrl' => 'https://rimsim.com',
     'site' => [
-        'title' => 'RimSim',
+        'title' => 'RIMSIM',
         'description' => 'How can we help you today?',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'miomio',
+        'name' => 'mio',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
+        'twitter' => 'https://twitter.com/rimsimofficial',
         'github' => 'https://github.com/johndoe',
     ],
     'services' => [
