@@ -51,7 +51,7 @@
 
              <a href="https://www.rimsim.com/contact/">Contact us</a>
              <br>
-             &copy; 2023 Rimsim
+            Rimsim &copy; 2023
          </small>
         </footer>
     </section>
