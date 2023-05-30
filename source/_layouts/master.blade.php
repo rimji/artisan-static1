@@ -51,9 +51,10 @@
 
              <a href="https://www.rimsim.com/contact/">Contact us</a>
              <br>
-             <img src="https://user-images.githubusercontent.com/88181976/241853506-b25887aa-504d-45c3-9506-10dbc733c1b3.png" alt="RIMSIM" width="25" height="25">
+            &copy; 2023 Rimsim<br>
+            <img src="https://user-images.githubusercontent.com/88181976/241853506-b25887aa-504d-45c3-9506-10dbc733c1b3.png" alt="RIMSIM" width="50" height="50">
 
-             &copy; 2023 Rimsim
+            
          </small>
         </footer>
     </section>
