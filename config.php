@@ -4,7 +4,7 @@ return [
     'production' => false,
     'baseUrl' => 'https://rimsim.com',
     'site' => [
-        'title' => 'Rimsim',
+        'title' => 'RIMSIM',
         'description' => 'How can we help you today?',
         'image' => 'default-share.png',
     ],
