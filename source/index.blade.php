@@ -2,8 +2,12 @@
 
 @section('content')
 
-  
+  <small>
+
   How can we help you today?
+
+       </small>
+  
   
 
 
