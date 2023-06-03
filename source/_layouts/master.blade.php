@@ -24,17 +24,14 @@
             </nav>
         </header> 
         
-     
-       
-
-           <br>
+     <article>
 
                 @yield('content')
 
-      
-
+       </article>
        
-        
+
+           
         <footer>
          <small>
              <a href="https://www.facebook.com/rimsimofficial">Facebook</a>
