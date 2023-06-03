@@ -27,11 +27,11 @@
      
        
 
-           <article>
+           
 
                 @yield('content')
 
-       </article>
+      
 
        
         
