@@ -27,7 +27,7 @@
      
        
 
-           
+           <br>
 
                 @yield('content')
 
