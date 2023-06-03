@@ -3,7 +3,7 @@
 @section('content')
 
   <small>
-  How can we help you today?
+  <b>How can we help you today?</b>
        </small>
 
 
