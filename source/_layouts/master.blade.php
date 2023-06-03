@@ -33,7 +33,7 @@
 
            
         <footer>
-         <small>
+        
              <a href="https://www.facebook.com/rimsimofficial">Facebook</a>
 
              &nbsp&nbsp
@@ -49,7 +49,7 @@
              <a href="https://www.rimsim.com/contact/">Contact us</a>
              <br>
             &copy; 2023 Rimsim
-         </small>
+         
         </footer>
     </section>
 
