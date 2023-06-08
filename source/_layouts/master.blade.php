@@ -34,11 +34,11 @@
            
         <footer>
         
-             <a href="https://www.facebook.com/rimsimofficial">Facebook</a>
+             <a href="https://www.facebook.com/rimsimofficial" target="_blank" rel="noopener noreferrer">Facebook</a>
 
              &nbsp&nbsp
 
-             <a href="https://www.instagram.com/rimsimofficial">Instagram</a>
+             <a href="https://www.instagram.com/rimsimofficial" target="_blank" rel="noopener noreferrer">Instagram</a>
 
              &nbsp&nbsp
 
@@ -46,7 +46,7 @@
 
       
 
-             <a href="https://twitter.com/rimsimofficial">Twitter</a>
+             <a href="https://twitter.com/rimsimofficial" target="_blank" rel="noopener noreferrer">Twitter</a>
              <br>
             &copy; 2023 Rimsim
          
