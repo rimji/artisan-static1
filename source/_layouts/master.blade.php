@@ -46,7 +46,7 @@
 
       
 
-             <a href="https://www.rimsim.com/contact/">Contact us</a>
+             <a href="https://twitter.com/rimsimofficial">Twitter</a>
              <br>
             &copy; 2023 Rimsim
          
