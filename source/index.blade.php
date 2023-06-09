@@ -5,7 +5,7 @@
   <small>
 
 Save Money! <br>
-follow us @rimsimshopping
+Follow us @rimsimshopping
 
        </small>
   
