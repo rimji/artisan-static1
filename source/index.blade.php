@@ -4,8 +4,6 @@
 
   <small>
 
-Save Money! <br>
-Follow us @rimsimshopping
 
        </small>
   
