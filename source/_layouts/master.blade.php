@@ -33,7 +33,10 @@
 
            
         <footer>
-        
+             Save Money! <br>
+
+             Follow us @rimsimshopping<br>
+                
              <a href="https://www.facebook.com/rimsimshopping" target="_blank" rel="noopener noreferrer">Facebook</a>
 
              &nbsp&nbsp
