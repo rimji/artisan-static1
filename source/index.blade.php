@@ -4,7 +4,7 @@
 
   <small>
 
-Save Money!
+Save Money! <br>
 follow us @rimsimshopping
 
        </small>
