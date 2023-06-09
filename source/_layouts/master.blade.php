@@ -34,7 +34,7 @@
            
         <footer>
         
-             <a href="https://www.facebook.com/rimsimofficial" target="_blank" rel="noopener noreferrer">Facebook</a>
+             <a href="https://www.facebook.com/rimsimshopping" target="_blank" rel="noopener noreferrer">Facebook</a>
 
              &nbsp&nbsp
 
