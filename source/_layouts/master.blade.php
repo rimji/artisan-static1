@@ -33,7 +33,7 @@
 
            
         <footer>
-             Save Money! <br>
+             
 
              
                 
@@ -48,11 +48,7 @@
              
              <a href="https://twitter.com/rimsimshopping" target="_blank" rel="noopener noreferrer">Twitter</a>
 
-             &nbsp&nbsp
-      
-
-             <a href="https://rimsim.com/contact" target="_blank" rel="noopener noreferrer">Contact us</a>
-             <br>
+               <br>
             &copy; 2023 Rimsim
          
         </footer>
