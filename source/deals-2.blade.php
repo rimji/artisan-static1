@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/88181976/244913461-52f1c949-9e7c-405d-b7b5-939c02b44699.png" alt="jkl">
 <img src="https://user-images.githubusercontent.com/88181976/244915263-467aa0d1-724a-49bb-ac1b-da1432f5bdff.png" alt="mno">
 <a href="https://www.rimsim.com/index">&larr; Previous Deals</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp&nbsp
+&nbsp&nbsp
 <a href="https://www.rimsim.com/contact">Next Deals &rarr;	</a>
       </small>
   
