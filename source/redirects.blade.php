@@ -6,4 +6,3 @@ permalink: _redirects
 /{{ $k }} {{ $v }}
 @endforeach
 
-/  /in     302  Country=in
