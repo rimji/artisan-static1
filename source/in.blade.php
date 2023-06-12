@@ -5,6 +5,6 @@
 @section('content')
 
    <small>
-   contact@rimsim.com
+   Hello India
    </small>
 @endsection
