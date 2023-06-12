@@ -10,7 +10,7 @@ environment = { PHP_VERSION = "7.4", NODE_VERSION = "12.16.1" }
 
   from = "/index"
 
-  to = "/in/:splat"
+  to = "/deals-2/"
 
   status = 301
 
