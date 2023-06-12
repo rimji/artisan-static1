@@ -5,7 +5,7 @@ return [
     'baseUrl' => 'https://rimsim.com',
     'site' => [
         'title' => 'Rimsim',
-        'description' => 'How can we help you today?',
+        'description' => 'Save Money! Get Best Deals.',
         'image' => 'default-share.png',
     ],
     'owner' => [
