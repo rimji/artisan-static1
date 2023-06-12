@@ -10,8 +10,8 @@ environment = { PHP_VERSION = "7.4", NODE_VERSION = "12.16.1" }
 
   to = "/in"
 
-  status = 302
+  status = 301
 
-  force = false
+  force = true
 
   conditions = {Country = ["in"]}
