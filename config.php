@@ -13,7 +13,7 @@ return [
     ],
     'links' => [
         'twitter' => 'https://twitter.com/rimsimofficial',
-        'github' => 'https://github.com/johndoe',
+        'github' => 'https://github.com/',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
