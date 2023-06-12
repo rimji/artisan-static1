@@ -8,9 +8,9 @@ environment = { PHP_VERSION = "7.4", NODE_VERSION = "12.16.1" }
 
 [[redirects]]
 
-  from = "/*"
+  from = "/index.html"
 
-  to = "/in.rimsim.com/:splat"
+  to = "/deals-2.html"
 
   status = 301
 
