@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', 'Contact')
+@section('title', 'India)
 
 @section('content')
 
