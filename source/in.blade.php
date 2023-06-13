@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', 'India')
+@section('title', 'Shopping made easy!')
 
 @section('content')
 
