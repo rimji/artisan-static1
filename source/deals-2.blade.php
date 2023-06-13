@@ -9,7 +9,16 @@
 <img src="https://user-images.githubusercontent.com/88181976/244913225-e359d639-8aaf-42b7-b7d8-98914934f356.png" alt="ghi">
 <img src="https://user-images.githubusercontent.com/88181976/244913461-52f1c949-9e7c-405d-b7b5-939c02b44699.png" alt="jkl">
 <img src="https://user-images.githubusercontent.com/88181976/244915263-467aa0d1-724a-49bb-ac1b-da1432f5bdff.png" alt="mno">
-  <img src="{{ media('11.png') }}" alt="gihi">
+ <img src="{{ media('100.png') }}" alt="gih55i"> 
+
+    <img src="{{ media('20.png') }}" alt="gih43i">  
+
+    <img src="{{ media('30.png') }}" alt="gih43i">
+
+   <img src="{{ media('40.png') }}" alt="gih££3i">
+
+  
+ <img src="{{ media('11.png') }}" alt="gihi">
     <img src="{{ media('22.png') }}" alt="gi1hi"> 
     <img src="{{ media('33.png') }}" alt="gih12i">  
     <img src="{{ media('4.png') }}" alt="gi3hi">  
