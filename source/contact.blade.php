@@ -6,6 +6,6 @@
 
    <small>
    contact@rimsim.com
-   <img src="{{ media('ybb.png') }}">
+   <img src="{{ media('ybb.png') }}" alt="gihi">
    </small>
 @endsection
