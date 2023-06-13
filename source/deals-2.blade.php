@@ -15,8 +15,8 @@
     <img src="{{ media('4.png') }}" alt="gi3hi">  
     <img src="{{ media('5.png') }}" alt="gih4i"> 
     <img src="{{ media('6.png') }}" alt="gi6hi">  
-    <img src="{{ media('7.png') }}" alt="gih55i"> 
-    <img src="{{ media('8.png') }}" alt="gih43i">  
+    <img src="{{ media('111.png') }}" alt="gih55i"> 
+    <img src="{{ media('222.png') }}" alt="gih43i">  
     <img src="{{ media('9.png') }}" alt="gih43i">
    <img src="{{ media('10.png') }}" alt="gih££3i">
   
