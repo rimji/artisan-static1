@@ -15,10 +15,10 @@
     <img src="{{ media('4.png') }}" alt="gi3hi">  
     <img src="{{ media('5.png') }}" alt="gih4i"> 
     <img src="{{ media('6.png') }}" alt="gi6hi">  
-    <img src="{{ media('111.png') }}" alt="gih55i"> 
-    <img src="{{ media('222.png') }}" alt="gih43i">  
-    <img src="{{ media('9.png') }}" alt="gih43i">
-   <img src="{{ media('10.png') }}" alt="gih££3i">
+    <img src="{{ media('100.png') }}" alt="gih55i"> 
+    <img src="{{ media('20.png') }}" alt="gih43i">  
+    <img src="{{ media('30.png') }}" alt="gih43i">
+   <img src="{{ media('40.png') }}" alt="gih££3i">
   
   <a href="https://www.rimsim.com/index">&larr;Previous Deals</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
