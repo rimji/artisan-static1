@@ -14,3 +14,15 @@ environment = { PHP_VERSION = "7.4", NODE_VERSION = "12.16.1" }
   force = true
 
   conditions = {Country = ["in"]}
+  
+[[redirects]]
+
+  from = "/"
+
+  to = "/us"
+
+  status = 301
+
+  force = true
+
+  conditions = {Country = ["us"]}
