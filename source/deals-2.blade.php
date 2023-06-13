@@ -11,9 +11,9 @@
 <img src="https://user-images.githubusercontent.com/88181976/244915263-467aa0d1-724a-49bb-ac1b-da1432f5bdff.png" alt="mno">
 <a href="https://www.rimsim.com/index">&larr;Previous Deals</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.rimsim.com/contact">Next Deals&rarr;</a>	
-  <img src="{{ media('1.png') }}" alt="gihi">
-    <img src="{{ media('2.png') }}" alt="gi1hi"> 
-    <img src="{{ media('3.png') }}" alt="gih12i">  
+  <img src="{{ media('11.png') }}" alt="gihi">
+    <img src="{{ media('22.png') }}" alt="gi1hi"> 
+    <img src="{{ media('33.png') }}" alt="gih12i">  
     <img src="{{ media('4.png') }}" alt="gi3hi">  
     <img src="{{ media('5.png') }}" alt="gih4i"> 
     <img src="{{ media('6.png') }}" alt="gi6hi">  
