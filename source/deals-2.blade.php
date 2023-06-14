@@ -32,9 +32,9 @@
     <img src="{{ media('30.png') }}" alt="gih43i">
    <img src="{{ media('40.png') }}" alt="gih££3i">
   
-  <a href="https://www.rimsim.com/index">&larr;Previous Deals</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.rimsim.com/index"><mark>&larr;Previous Deals</mark></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://www.rimsim.com/contact">Next Deals&rarr;</a>	
+<a href="https://www.rimsim.com/contact"><mark>Next Deals&rarr;</mark></a>	
   
   
       </small>
