@@ -5,7 +5,7 @@
 @section('content')
 
    <small>
-   <mark>in.contact@rimsim.com</mark>
+   <b>in.contact@rimsim.com</b>
    
 
 
