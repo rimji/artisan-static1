@@ -20,7 +20,7 @@
     <section>
      <header>
             <nav>
-              	<a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/245730612-d1674ceb-b26e-4552-94da-21a291d0f998.png" alt="Rimsim" width="90" height="25"></a>
+              	<a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/245754932-8d760de0-b789-439e-93e6-0ce080997326.png" alt="Rimsim" width="90" height="25"></a>
           	<br>	Save Money! Get Best Deals ⭐
             </nav>
         </header> 
