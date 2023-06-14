@@ -18,7 +18,7 @@
 
 
 
-<a href="https://www.rimsim.com/deals-2">Next Deals&rarr;</a>
+<a href="https://www.rimsim.com/deals-2"><mark>Next Deals&rarr;</mark></a>
 
 
    </small>
