@@ -34,7 +34,7 @@
   
   <a href="https://www.rimsim.com/index"><mark>&larr;Previous Deals</mark></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://www.rimsim.com/contact"><mark>Next Deals&rarr;</mark></a>	
+<a href="https://www.rimsim.com/us"><mark>Next Deals&rarr;</mark></a>	
   
   
       </small>
