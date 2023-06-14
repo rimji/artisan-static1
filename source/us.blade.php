@@ -9,6 +9,10 @@
   <img src="{{ media('q_auto:eco/ybb.png') }}" alt="gihi">
   <img src="{{ media('ybb.png') }}" alt="gihi">
 <img src="{{ media('q_auto/ybb.jpg') }}" alt="gihi">
+<a href="https://www.rimsim.com/index"><mark>&larr;Prev Deals</mark></a>
+
+
+
 
 
    </small>
