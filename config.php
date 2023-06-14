@@ -18,8 +18,8 @@ return [
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => '',
-        'disqus' => 'artisanstatic',
-        'formcarry' => 'XXXXXXXXXXXX',
+        'disqus' => '',
+        'formcarry' => '',
         'cloudinary' => [
             'cloudName' => 'dbetxxtoj',
             'apiKey' => '921427943564381',
