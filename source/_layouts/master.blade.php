@@ -42,12 +42,12 @@
 
              &nbsp&nbsp
 
-             <a href="https://www.instagram.com/rimsimshopping" target="_blank" rel="noopener noreferrer">Instagram</a>
+             <a href="https://www.instagram.com/rimsimindia" target="_blank" rel="noopener noreferrer">Instagram</a>
 
              &nbsp&nbsp
 
              
-             <a href="https://twitter.com/rimsimshopping" target="_blank" rel="noopener noreferrer">Twitter</a>
+             <a href="https://twitter.com/rimsimindia" target="_blank" rel="noopener noreferrer">Twitter</a>
 
                <br>
             &copy; 2023 Rimsim
