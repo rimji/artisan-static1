@@ -5,7 +5,7 @@
 @section('content')
 
    <small>
-   <b>><a href="mailto:in.contact@rimsim.com">Mail us</a></b>
+   <b><a href="mailto:in.contact@rimsim.com">Mail us</a></b>
    
 
 
