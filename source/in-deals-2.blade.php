@@ -4,7 +4,7 @@
 
   <small>
 
-<img src="https://user-images.githubusercontent.com/88181976/244913220-0e584bf0-0dec-4fd4-9ab8-622636bcd17f.png" alt="abc">
+<img src="{{ media('q_auto/ybb.jpg') }}" alt="gihi">
 
   
  
