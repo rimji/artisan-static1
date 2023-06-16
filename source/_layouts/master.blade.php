@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-    <section>
+    
      <header>
             <nav>
               	<a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/246125324-e7a56298-71aa-4527-a3c6-756223a155e7.png" alt="Rimsim" width="100" height="20"></a>
@@ -36,7 +36,7 @@
              <a href="https://twitter.com/RimsimIN" target="_blank" rel="noopener noreferrer">Twitter</a>
              <br>&copy; 2023 Rimsim
         </footer>
-    </section>
+    
     @includeWhen($page->production, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
 </body>
