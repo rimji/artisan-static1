@@ -5,15 +5,10 @@
 @section('content')
     <small>
    <img src="{{ media('q_auto:good/ybb.png') }}" alt="gihi">
-  <img src="{{ media('q_auto:eco/ybb.png') }}" alt="gihi">
-  <img src="{{ media('ybb.png') }}" alt="gihi">
-<img src="{{ media('q_auto/ybb.jpg') }}" alt="gihi">
-<a href="https://www.rimsim.com/in-deals-2">Prev Deal</a>
+   <img src="{{ media('q_auto:eco/ybb.png') }}" alt="gihi">
+   <img src="{{ media('ybb.png') }}" alt="gihi">
+   <img src="{{ media('q_auto/ybb.jpg') }}" alt="gihi">
 
-
-
-
-
-    </small>
-        
+    <a href="https://www.rimsim.com/in-deals-3">Prev Deal</a>
+    </small>   
 @endsection
