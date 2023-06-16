@@ -29,7 +29,7 @@
                 @yield('content')
      </article>     
         <footer>
-             
+             @RimsimIN<br>
              <a href="https://www.facebook.com/RimsimIN" target="_blank" rel="noopener noreferrer">Facebook</a>
              &nbsp&nbsp
              <a href="https://www.instagram.com/RimsimIN" target="_blank" rel="noopener noreferrer">Instagram</a>
