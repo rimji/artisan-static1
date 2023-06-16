@@ -11,7 +11,7 @@
   <img src="{{ media('q_auto/mnz.jpg') }}" alt="Forest" width="250" height="333">
   <img src="{{ media('q_auto/ghz.jpg') }}" alt="Cinque Terre" width="250" height="333">
       </div>
-   <a href="https://www.rimsim.com/in-deals-2"><b>Buy it!</b>☝️</a><br>
+   <a href="https://www.rimsim.com/in-deals-2"><mark><b>Buy it!</b></mark>☝️</a><br>
    <a href="https://www.rimsim.com/in-deals-2">See Next 👉</a>
     </small>
 @endsection
