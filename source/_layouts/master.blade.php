@@ -38,16 +38,16 @@
 
              
                 
-             <a href="https://www.facebook.com/rimsimshopping" target="_blank" rel="noopener noreferrer">Facebook</a>
+             <a href="https://www.facebook.com/RimsimIN" target="_blank" rel="noopener noreferrer">Facebook</a>
 
              &nbsp&nbsp
 
-             <a href="https://www.instagram.com/rimsimindia" target="_blank" rel="noopener noreferrer">Instagram</a>
+             <a href="https://www.instagram.com/RimsimIN" target="_blank" rel="noopener noreferrer">Instagram</a>
 
              &nbsp&nbsp
 
              
-             <a href="https://twitter.com/rimsimindia" target="_blank" rel="noopener noreferrer">Twitter</a>
+             <a href="https://twitter.com/RimsimIN" target="_blank" rel="noopener noreferrer">Twitter</a>
 
                <br>
             &copy; 2023 Rimsim
