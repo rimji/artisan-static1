@@ -6,7 +6,7 @@
 
    <small>
 <img src="https://user-images.githubusercontent.com/88181976/244913223-a974cdfd-f15b-490c-87a5-660def70aa11.png" alt="def">
-<a href="https://www.rimsim.com/in">Pre Deal</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://www.rimsim.com/in">Prev Deal</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.rimsim.com/in-deals-3">Next Deal</a>
    </small>
 @endsection
