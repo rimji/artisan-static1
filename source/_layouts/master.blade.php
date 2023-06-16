@@ -21,37 +21,21 @@
      <header>
             <nav>
               	<a href="https://www.rimsim.com/"><img src="https://user-images.githubusercontent.com/88181976/246125324-e7a56298-71aa-4527-a3c6-756223a155e7.png" alt="Rimsim" width="100" height="20"></a>
-             	<br>	Save Money! Get Best Deals.
+             	<br>Save Money! Get Best Deals.
             </nav>
         </header> 
         
      <article>
-
                 @yield('content')
-
-       </article>
-       
-
-           
+     </article>     
         <footer>
-             
-
              @RimsimIN<br>
-                
              <a href="https://www.facebook.com/RimsimIN" target="_blank" rel="noopener noreferrer">Facebook</a>
-
              &nbsp&nbsp
-
              <a href="https://www.instagram.com/RimsimIN" target="_blank" rel="noopener noreferrer">Instagram</a>
-
              &nbsp&nbsp
-
-             
              <a href="https://twitter.com/RimsimIN" target="_blank" rel="noopener noreferrer">Twitter</a>
-
-               <br>
-            &copy; 2023 Rimsim
-         
+             <br>&copy; 2023 Rimsim
         </footer>
     </section>
     @includeWhen($page->production, '_partials.analytics')
