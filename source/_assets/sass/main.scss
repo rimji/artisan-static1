@@ -41,13 +41,19 @@ footer {
 
 article {
   text-align: center;
-  margin-top: 0px;
-  
-
-
+  margin-top: 0px;  
 }
 
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
 
+div.scroll-container img {
+  padding: 10px;
+}
 section h1:first-child {
     margin-top: 0px;
     font-size: 21px;
