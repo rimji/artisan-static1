@@ -9,8 +9,8 @@
   
  
   
-  <a href="https://www.rimsim.com/index">Prev Deals</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.rimsim.com/index">Prev Deals</a>&nbsp&nbsp&nbsp&nbsp
+    
 
 <a href="https://www.rimsim.com/in-deals-3">Next Deals</a>	
   
