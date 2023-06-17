@@ -4,10 +4,13 @@
 
 @section('content')
 
-   <small>
-<img src="https://user-images.githubusercontent.com/88181976/244915263-467aa0d1-724a-49bb-ac1b-da1432f5bdff.png" alt="mno">
-<a href="https://www.rimsim.com/in-deals-2">Prev Deal</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.rimsim.com/about">Next Deal</a>
-  </small>
-  
+   <div class="scroll-container">
+  <img src="{{ media('q_auto/abz1.jpg') }}" alt="Cinque Terre" width="250" height="333">
+  <img src="{{ media('q_auto/dez1.jpg') }}" alt="Forest" width="250" height="333">
+  <img src="{{ media('q_auto/jkz.jpg') }}" alt="Cinque Terre" width="250" height="333">
+  <img src="{{ media('q_auto/mnz.jpg') }}" alt="Forest" width="250" height="333">
+  <img src="{{ media('q_auto/ghz.jpg') }}" alt="Cinque Terre" width="250" height="333">
+   </div><br>
+  <a href="https://www.rimsim.com/in-deals-2" class="button"><b>BUY it NOW</b></a>
+
 @endsection
