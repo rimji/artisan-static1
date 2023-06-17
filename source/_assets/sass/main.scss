@@ -4,6 +4,11 @@
 @import "~highlight.js/scss/a11y-dark";
 @import "~notyf/notyf.min";
 
+*, html {
+    margin:0;
+    padding:0;  
+}
+
 a {
   color: black;
   font-family: 'Roboto', sans-serif;
