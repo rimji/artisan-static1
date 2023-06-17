@@ -3,7 +3,7 @@
 @section('title', 'Shopping made easy!')
 
 @section('content')
-   
+   Save Money! Get Best Deals.<br><br>
       <div class="scroll-container">
   <img src="{{ media('q_auto/abz1.jpg') }}" alt="Cinque Terre" width="270" height="360">
   <img src="{{ media('q_auto/dez1.jpg') }}" alt="Forest" width="270" height="360">
