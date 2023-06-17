@@ -10,6 +10,6 @@
   <img src="{{ media('q_auto/jkz.jpg') }}" alt="Cinque Terre" width="250" height="333">
   <img src="{{ media('q_auto/mnz.jpg') }}" alt="Forest" width="250" height="333">
   <img src="{{ media('q_auto/ghz.jpg') }}" alt="Cinque Terre" width="250" height="333">
-      </div>
+      </div><br>
   <a href="https://www.rimsim.com/in-deals-2" class="button"><b>BUY it NOW</b></a>
 @endsection
