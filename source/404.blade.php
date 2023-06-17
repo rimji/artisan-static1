@@ -7,7 +7,7 @@ permalink: 404.html
 @section('title', 'Page not found')
 
 @section('content')
-      <b>OOPS...</b><br>
+      <b>Oops...</b><br>
      <small>We can't find the page you are looking for.</small>.</small><br><br>
      <a href="https://www.rimsim.com/" class="button"><b>BACK TO HOME</b></b></a>
 @endsection
