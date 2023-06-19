@@ -11,6 +11,8 @@
   <img src="{{ media('q_auto/ghz.jpg') }}" alt="Cinque Terre" width="270" height="360">
       </div><br>
   <a href="https://www.rimsim.com/in-deals-2" class="button"><b>BUY NOW</b></a>
+<br>
+<a href="https://www.rimsim.com/in-deals-2" class="button"><b>BUY NOW</b></a>
 
 <fooz>
 Initially available only in English, versions in other languages were quickly developed. Wikipedia's combined editions comprise more than 61 million articles, attracting around 2 billion unique device visits per month and more than 15 million edits per month (about 5.7 edits per second on average) as of January 2023.[6][7]
