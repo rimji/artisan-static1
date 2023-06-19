@@ -63,12 +63,8 @@ fooz {
     
     text-align: justify;
     font-size: 10px;
-    border: 1px solid black;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-  background-color: lightblue;
+    padding: 10px;
+  
   
 }
 
@@ -87,7 +83,7 @@ article {
   line-height: 10px;
   border : none;
   margin: 0 !important;
-  padding: 0 !important;
+  
 }
 
 div.scroll-container {
