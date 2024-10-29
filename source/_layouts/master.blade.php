@@ -33,7 +33,7 @@
              <a href="https://www.instagram.com/RimsimIN" target="_blank" rel="noopener noreferrer">Instagram</a>
              &nbsp&nbsp
              <a href="https://twitter.com/RimsimIN" target="_blank" rel="noopener noreferrer">Twitter</a>
-             <br>&copy; 2024 Pojama
+             <br>&copy; 2024 Rimsim
         </footer>
   </section>
     @includeWhen($page->production, '_partials.analytics')
